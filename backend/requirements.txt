@@ -1,0 +1,6 @@
+fastapi==0.100.0
+uvicorn[standard]==0.23.0
+httpx==0.24.0
+pydantic==2.5.1
+python-dotenv==1.0.0  # опционально, если хочешь .env поддержку
+mysql-connector-python==8.0.33
