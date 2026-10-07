@@ -2,6 +2,8 @@
 
 AI-powered technical interview practice app with chat UI and Ollama LLM.
 
+![Пример диалога в ChatBot](docs/chat-example.png)
+
 ## Prerequisites
 - Python 3.11+
 - Node.js 18+
